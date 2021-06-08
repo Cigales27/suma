@@ -1,2 +1,2 @@
 <?php
-    return echo json_encode ("Hola mundo");
+    echo json_encode ("Hola mundo");
