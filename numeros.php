@@ -4,4 +4,4 @@
 
     $resultado = $numeroa + $numerob;
 
-    return json_encode($resultado);
+    return  echo json_encode($resultado);
