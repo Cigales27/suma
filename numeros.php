@@ -1,6 +1,6 @@
 <?php
-    $numeroa = $_GET["A"];
-    $numerob = $_GET["N"];
+    $numeroa = $_POST["A"];
+    $numerob = $_POST["N"];
 
     $resultado = $numeroa + $numerob;
 
